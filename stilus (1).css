@@ -1,0 +1,87 @@
+.cim{
+    background-image: url(kek_eg.jpg);
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    height:100px;
+    
+}
+
+.klubszin{
+    color: yellow;
+}
+
+.cim2{
+    text-align: center;
+    font-size: 300%;
+}
+.cimek{
+    color: blue;
+    font-size: 110%;
+}
+
+.kondi{
+    font-size: 130%;
+}
+
+body{
+    background-color: lightgray;
+}
+
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    width: 100%;
+    height: 20px;
+    text-decoration: none;
+    background-image: url(menu_hatter.png);
+    text-align: center;
+    margin: auto;
+}
+
+ul{
+
+}
+
+ul li{
+ list-style: none;
+ display: inline-block;
+ line-height: 20px;
+ float: left;
+ 
+ 
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 0 20px;
+    
+}
+
+.kapcs{
+    text-align: center;
+    font-size: 50px;
+}
+.fitnesgep{
+    float: right;
+}
+
+td, tr{
+   padding: 1px;
+}
+
+.input100{
+    width: 70%;
+}
+
+.egesz{
+    padding: 15px;
+}
+
+
+
